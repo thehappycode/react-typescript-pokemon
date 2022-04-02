@@ -1,2 +1,0 @@
-# react-typescript-pokemon
-Tutorial
